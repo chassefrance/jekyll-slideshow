@@ -1,7 +1,7 @@
 ---
 layout: iframe
 title: Infographie
-item: 1
+item: 8
 auto: true
 loop: true
 ---
