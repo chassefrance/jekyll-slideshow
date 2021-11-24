@@ -6,6 +6,8 @@ auto: false
 loop: true
 autoWidth: true
 adaptiveHeight: true
+vertical: true
+
 --- 
 
 * ![1](my-pics1/1.jpeg)
