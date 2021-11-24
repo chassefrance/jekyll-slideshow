@@ -6,8 +6,8 @@ auto: true
 loop: true
 ---
 
-* ![](my-pics1/1.png)
-* ![]((my-pics1/2.png)
+* ![](my-pics1/1.jpeg)
+* ![]((my-pics1/2.jpeg)
 * ![]((my-pics1/3.png)
 * ![]((my-pics1/4.png)
 * ![]((my-pics1/5.png)
