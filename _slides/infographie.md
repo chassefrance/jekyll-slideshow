@@ -2,7 +2,7 @@
 layout: iframe
 title: Infographie
 item: 8
-auto: true
+auto: false
 loop: true
 autoWidth: true
 ---
